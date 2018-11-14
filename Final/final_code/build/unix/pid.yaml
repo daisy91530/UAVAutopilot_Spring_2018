@@ -1,0 +1,22 @@
+%YAML:1.0
+---
+PID_X: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ 0.8, 0.16, 0.5 ]
+PID_Y: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ 0, 0, 0 ]
+PID_Z: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [ 0, 0, 0 ]
+PID_R: !!opencv-matrix
+   rows: 3
+   cols: 1
+   dt: d
+   data: [0.38, 0,0.01 ]
